@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    ".env": "code-text-binary",
+    "tuple": "cpp"
+  }
+}
